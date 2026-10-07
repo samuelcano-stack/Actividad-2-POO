@@ -1,0 +1,4 @@
+package appejercicio2.pkg3;
+
+enum tipoA {CIUDAD, SUBCOMPACTO, COMPACTO, FAMILIAR,
+EJECUTIVO, SUV}
