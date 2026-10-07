@@ -1,8 +1,8 @@
 ![App Screenshot](LogosimboloUNAL.jpg)
 
-# Actividad #1 Programacion Orientada a Objetos
+# Actividad #2 Programacion Orientada a Objetos
 
-Esta actividad corresponde a la primera entrega del curso de POO (grupo 3)
+Esta actividad corresponde a la segunda entrega del curso de POO (grupo 3)
 
 
 # Solución
@@ -15,7 +15,7 @@ Universidad Nacional de Colombia, Sede Medellín
 
 ## Nombre de la actividad
 
-Actividad #1 Programacion Orientada a Objetos (2026-2S)
+Actividad #2 Programacion Orientada a Objetos (2026-2S)
 
 ## Estudiante
 Samuel Cano Bedoya
