@@ -10,14 +10,14 @@ Si desea ver el documento completo presione "More Pages" en la parte inferior o 
 
 [PDF](Documento.pdf)
 
-## Institución
+# Institución
 Universidad Nacional de Colombia, Sede Medellín
 
-## Nombre de la actividad
+# Nombre de la actividad
 
 Actividad #2 Programacion Orientada a Objetos (2026-2S)
 
-## Estudiante
+# Estudiante
 Samuel Cano Bedoya
-## Docente a cargo
+# Docente a cargo
 Walter Hugo Arboleda Mazo
