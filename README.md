@@ -11,7 +11,8 @@ Si desea ver el documento completo presione "More Pages" en la parte inferior o 
 [PDF](Documento.pdf)
 
 ## Ejercicio 2.1
-[Main](AppEjercicio21.java)
+[Class_Main](AppEjercicio21.java)
+[Class_Persona](Persona.java)
 
 # Institución
 Universidad Nacional de Colombia, Sede Medellín
